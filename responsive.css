@@ -1,0 +1,10 @@
+@media (max-width: 670px) {
+    section {
+        -webkit-flex-direction: column;
+        flex-direction: column;
+    }
+
+    .content-text-two {
+        padding-bottom: 30px;
+    }
+}
